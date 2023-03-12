@@ -13,4 +13,5 @@ flutter 기본 규칙 및 문법 연습을 위한 클론코딩
 
 
 ## 실행 화면
-https://user-images.githubusercontent.com/62362753/224527487-31e2bc3a-97bf-4b98-b027-fc49abf2fda8.png
+
+![실행화면](https://user-images.githubusercontent.com/62362753/224527487-31e2bc3a-97bf-4b98-b027-fc49abf2fda8.png)
